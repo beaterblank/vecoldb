@@ -1,2 +1,2 @@
-#Vecol DB
+# Vecol DB
 Columnar Vector DB in rust
